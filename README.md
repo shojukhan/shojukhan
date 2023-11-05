@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Pos system](https://github.com/shojukhan)
+- 🔭 I’m currently working on [shataj soft ltd](https://shataj.com)
 
 - 🌱 I’m currently learning **php,java**
 
